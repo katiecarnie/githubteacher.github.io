@@ -2,4 +2,4 @@
 layout: bare.html
 ---
 
-Hello world!
+This is bound to a layout now.
