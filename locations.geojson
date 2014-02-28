@@ -13,4 +13,22 @@
       }
     }
   ]
-}
+},
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katie's Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09438157081604003,
+          51.507460346127864
+        ]
+      }
+    }
+  ]
+},
