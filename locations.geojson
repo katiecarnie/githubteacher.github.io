@@ -11,24 +11,19 @@
           39.53793974517628
         ]
       }
-    }
-  ]
-},
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {
-        "name": "Katie's Office"
+        "name": "Katie's office"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.09438157081604003,
-          51.507460346127864
+          -0.09434938430786133,
+          51.50751376820967
         ]
       }
     }
   ]
-},
+}
